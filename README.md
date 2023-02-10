@@ -1,2 +1,2 @@
 # ML_learnings
-This repositaoriy contains the ML models and their descriptions which I built while learning the ML concepts
+The basic ML models have been developed to predict the logBB (blood brain barrier) permeabiliy of the small compounds.
